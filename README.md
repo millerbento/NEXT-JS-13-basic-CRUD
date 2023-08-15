@@ -5,6 +5,7 @@
 PocketBase (The easiest backend solution out there) 
 
 Open the Terminal and type command below in the root of the project to start
+
 ./pocketbase/pocketbase serve
 
 **Admin UI credentials**
